@@ -1,0 +1,29 @@
+# Logs
+.DS_Store
+.cache
+yarn-error.log
+
+# Runtime data
+*.pyc
+
+# Compiled binary addons
+dist/
+
+# Dependency directories
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# IDE configuration
+.vscode
+.idea
+
+# dotenv environment variables file
+venv/
+
+# ----- custom -----
+c-code/
+**/password.js
+public/
+public.zip
